@@ -1,0 +1,16 @@
+div{
+    text-align: center;
+}
+input{
+    text-align-last: right;
+}
+table{
+    width: 30%;
+    margin: auto;
+}
+button{
+    size: initial;
+}
+td{
+    size: 3;
+}
